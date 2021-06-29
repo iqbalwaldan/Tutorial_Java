@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/07-Memahami_string[]_args/07-Memahami_string[]_args.iml" filepath="$PROJECT_DIR$/07-Memahami_string[]_args/07-Memahami_string[]_args.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-Variabel/08-Variabel.iml" filepath="$PROJECT_DIR$/08-Variabel/08-Variabel.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Tipe_Data_Primitive/09-Tipe_Data_Primitive.iml" filepath="$PROJECT_DIR$/09-Tipe_Data_Primitive/09-Tipe_Data_Primitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-Latihan_Kalkulator_Sederhana/25-Latihan_Kalkulator_Sederhana.iml" filepath="$PROJECT_DIR$/25-Latihan_Kalkulator_Sederhana/25-Latihan_Kalkulator_Sederhana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-While_Loop/27-While_Loop.iml" filepath="$PROJECT_DIR$/27-While_Loop/27-While_Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tutorial_Java.iml" filepath="$PROJECT_DIR$/.idea/Tutorial_Java.iml" />
     </modules>
   </component>
